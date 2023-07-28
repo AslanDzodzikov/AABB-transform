@@ -1,0 +1,34 @@
+# Temporary and generated files
+*.aps
+*.user
+*.suo
+*.ncb
+*.pdb
+*.exp
+*.ilk
+*.config
+*.manifest
+*.log
+*.vcl
+*.vcb
+*.vco
+*.cache
+*.sdf
+*.rc.gen
+*.ctmp
+*.qmlc
+*.qmake.conf
+*.tli
+*.tlh
+*.autosave
+# Visual Studio Code's hidden folder
+.vscode
+# Visual Studio's hidden folder
+.vs
+*/Debug
+*/Release
+# Temporary and build-related folders
+*/obj
+*/_obj
+*/ipch
+*/SBRDir
